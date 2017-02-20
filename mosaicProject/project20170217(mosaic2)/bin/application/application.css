@@ -1,0 +1,29 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#centrepane {-fx-background-color:CYAN;}
+#toppane {-fx-background-color:RED;}
+#bottompane{-fx-background-color:YELLOW;}
+#leftpane{-fx-background-color:grey ;}
+#rightpane{-fx-background-color:pink; }
+
+#middlepanetop {-fx-background-color:green;}
+#middlepaneleft{-fx-background-color:green;}
+#middlepaneright{-fx-background-color:green ;}
+#middlepanebottom{-fx-background-color:green; }
+
+#odd{-fx-background-color:black ;}
+#even{-fx-background-color:white ;}
+
+#rightpanetop{-fx-background-color:blue;}
+#rightpanemiddle{-fx-background-color:bisque;}
+#rightpanebottom{-fx-background-color:grey;}
+
+#yellow{-fx-background-color:yellow ;}
+#pink{-fx-background-color:pink ;}
+
+#left {-fx-background-color:red ;}
+#middle {-fx-background-color:goldenrod ;}
+#right {-fx-background-color:yellow ;}
+
+#odd{-fx-background-color:black ;}
+#even{-fx-background-color:white ;}

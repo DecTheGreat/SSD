@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#menubox {-fx-background-color: darkred}
+#towerbuttons {-fx-background-color: darkgreen}
+#towerbackground {-fx-background-color: royalblue}
+#pin {-fx-fill:grey}
+#base{-fx-fill:burlywood}
+#brick{-fx-background-color:goldenrod }
+#startmenu {-fx-background-color:red}
